@@ -9,7 +9,7 @@ Mira
 I was looking into new initiatives; 
 I found out 92% of studies were not published in the open. Because researchers are afraid that it is misinterpeted.
 The Green policy institute, 
-In denmark it is banne
+In denmark it is banned, only in denmark, how to get more out of these research. Research things that already have been done. 
 
 Ras
 
@@ -27,5 +27,5 @@ Or if it too low in percentage, and then we don't even list it.
 The last thing again; the social aspect it, how much noise do you make about it. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODM2OTgzOSwyNDUyMzQ3MzJdfQ==
+eyJoaXN0b3J5IjpbLTU2OTY3NTEzMF19
 -->
