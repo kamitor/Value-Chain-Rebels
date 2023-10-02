@@ -4,6 +4,8 @@ Chris
 Maxime
 Reading up and watching of the movie dark waters we talked about last time. Key takeaways I can understand why the movie can be a good inspiration as it brings a narrative and history at hand. How it has been made and how it has been 
 
+Target one of the biggest industry angles; we need to start the Buy Side of this angle. My question to each of you: If you need to touch a industry or product as a catalyzer for this project be, what would be focus on.
+
 I'm a bit skeptical
 Glisos ad - pestisides 
 Monzanto - 
@@ -46,5 +48,5 @@ michiel
 
 We can zoom in consumer products - > Baby products ? health products, Value products. One paticular value chain. Whether it's health or outside gear. But if we do that, we can tackle this for the costumer angle. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODY3NzY1NiwtNTY5Njc1MTMwXX0=
+eyJoaXN0b3J5IjpbLTI5NDc3MDIyN119
 -->
