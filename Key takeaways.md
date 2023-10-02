@@ -13,7 +13,8 @@ The things are so bad that people have been instructed not to eat because of pol
 there is also new legislating coming in, where they are pushing it to be completly gone.
 That it is so blatantly covered up. 
 
-
+Bart;
+a good example I found was from fire extingisers where 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MjM0NzMyXX0=
+eyJoaXN0b3J5IjpbLTExODQzMjE0NzIsMjQ1MjM0NzMyXX0=
 -->
