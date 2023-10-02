@@ -6,6 +6,11 @@ Reading up and watching of the movie dark waters we talked about last time. Key 
 
 Mira
 
+I was looking into new initiatives; 
+I found out 92% of studies were not published in the open. Because researchers are afraid that it is misinterpeted.
+The Green policy institute, 
+In denmark it is banne
+
 Ras
 
 The things are so bad that people have been instructed not to eat because of pollution
@@ -18,7 +23,9 @@ a good example I found was from fire extingisers where people don't even know it
 How it's being percieved, the thing is super important. 
 There is a lot of populistic information being spread; I think it's essential that we look into legal, if it's out of scope we shoudnt use it.
 Is it required to put on your product if it's in it?
-Or if it too low in percenta
+Or if it too low in percentage, and then we don't even list it.
+The last thing again; the social aspect it, how much noise do you make about it. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzQ3NTY3NCwyNDUyMzQ3MzJdfQ==
+eyJoaXN0b3J5IjpbLTM1ODM2OTgzOSwyNDUyMzQ3MzJdfQ==
 -->
