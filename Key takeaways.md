@@ -26,6 +26,10 @@ Is it required to put on your product if it's in it?
 Or if it too low in percentage, and then we don't even list it.
 The last thing again; the social aspect it, how much noise do you make about it. 
 
+
+michiel
+
+We can zoom in consumer products
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTY3NTEzMF19
+eyJoaXN0b3J5IjpbMTA2OTYxMjE3LC01Njk2NzUxMzBdfQ==
 -->
