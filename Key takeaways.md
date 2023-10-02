@@ -8,7 +8,11 @@ Mira
 
 Ras
 
+The things are so bad that people have been instructed not to eat because of pollution
+
+there is also new legislating coming in, where they are pushing it to be completlky 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIwNzAxOTksNTE5NDk4MTI3XX0=
+eyJoaXN0b3J5IjpbLTc3NjI1MzA5MCw1MTk0OTgxMjddfQ==
 -->
