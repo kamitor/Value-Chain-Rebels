@@ -21,7 +21,8 @@ PFAS (Per- and Polyfluoroalkyl Substances) pose environmental and health risks. 
 - **Effectiveness:** Highly effective. Research influences policy and industry decisions.
 - **Data/Source:** Research has significantly influenced policy decisions (Source: [Science and Environmental Policy-Making](https://www.jstor.org/stable/2222558)).
 
-https://github.com/kamitor/Value-Chain-Rebels/blob/master/Research%20and%20Advocacy.md
+https://github.com/kamitor/Value-Chain-Rebels/blob/master/Research%20and%20Advocacy.mdExpa
+
 
 ### 2. Supply Chain Audits
 - **Description:** Implement comprehensive supply chain audits to identify PFAS usage and its sources.
@@ -104,5 +105,5 @@ The lectoraat in Supply Chain Finance can have a substantial impact on eliminati
 The "Value Chain Rebels" project has the potential to revolutionize the supply chain for the better. By considering both radical and non-radical options, the supply chain finance department can drive innovation, foster collaboration, and lead the way toward a more sustainable and efficient supply chain ecosystem.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM4MzY5NjRdfQ==
+eyJoaXN0b3J5IjpbLTk2NzU1Nzc0MCwtMTY5MzgzNjk2NF19
 -->
