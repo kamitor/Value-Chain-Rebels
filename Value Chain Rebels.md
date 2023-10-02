@@ -40,6 +40,9 @@ PFAS (Per- and Polyfluoroalkyl Substances) pose environmental and health risks. 
 - **Effectiveness:** Moderately effective. Supplier cooperation is essential but may vary.
 - **Data/Source:** Supplier engagement can yield positive results but depends on supplier responsiveness (Source: [Supplier Relations and Environmental Management](https://www.tandfonline.com/doi/abs/10.1080/0020754991900006)).
 
+-- Use Social Media for Auditing.
+Research Asbestos case: How did it get rid of the case // Look at the arguments from the other side. 
+
 ### 4. Supply Chain Transparency
 - **Description:** Enhance transparency by requiring suppliers to disclose PFAS usage and reduction efforts.
 - **Relevance:** Provides visibility into the supply chain and encourages accountability.
@@ -105,5 +108,5 @@ The lectoraat in Supply Chain Finance can have a substantial impact on eliminati
 The "Value Chain Rebels" project has the potential to revolutionize the supply chain for the better. By considering both radical and non-radical options, the supply chain finance department can drive innovation, foster collaboration, and lead the way toward a more sustainable and efficient supply chain ecosystem.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTI5MzQzN119
+eyJoaXN0b3J5IjpbLTE2MzgwNTQ1MTJdfQ==
 -->
