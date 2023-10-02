@@ -11,7 +11,7 @@ It's been legal actions against this, but we now know that it is bad, causing ca
 our president; said that they would ban pfas;
 Now you can't find it anymore but the consumers don't have access to it, but the farmers havn't changed, ultimately it doesnt matter. 
 so my fear is here my skepticism if we look at these issue fromthe cosumer angle we will impact be minimal; We might come up with a solution that is too expensive for costumers.
-and B) not targeting Pfas with the
+and B) not targeting Pfas with the biggest companies
 
 Mira
 
@@ -46,5 +46,5 @@ michiel
 
 We can zoom in consumer products - > Baby products ? health products, Value products. One paticular value chain. Whether it's health or outside gear. But if we do that, we can tackle this for the costumer angle. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTk2MTIxNCwtNTY5Njc1MTMwXX0=
+eyJoaXN0b3J5IjpbLTc1ODY3NzY1NiwtNTY5Njc1MTMwXX0=
 -->
