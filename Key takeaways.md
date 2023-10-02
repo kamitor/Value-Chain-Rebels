@@ -8,7 +8,10 @@ I'm a bit skeptical
 Glisos ad - pestisides 
 Monzanto - 
 It's been legal actions against this, but we now know that it is bad, causing cancer and bad for evironment. 
-our president; said that they would ban pfas; 
+our president; said that they would ban pfas;
+Now you can't find it anymore but the consumers don't have access to it, but the farmers havn't changed, ultimately it doesnt matter. 
+so my fear is here my skepticism if we look at these issue fromthe cosumer angle we will impact be minimal; We might come up with a solution that is too expensive for costumers.
+and B) not targeting Pfas with the
 
 Mira
 
@@ -43,5 +46,5 @@ michiel
 
 We can zoom in consumer products - > Baby products ? health products, Value products. One paticular value chain. Whether it's health or outside gear. But if we do that, we can tackle this for the costumer angle. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDYxODczNCwtNTY5Njc1MTMwXX0=
+eyJoaXN0b3J5IjpbLTM4MTk2MTIxNCwtNTY5Njc1MTMwXX0=
 -->
