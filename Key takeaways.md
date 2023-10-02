@@ -4,7 +4,11 @@ Chris
 Maxime
 Reading up and watching of the movie dark waters we talked about last time. Key takeaways I can understand why the movie can be a good inspiration as it brings a narrative and history at hand. How it has been made and how it has been 
 
-Glisos
+I'm a bit skeptical
+Glisos ad - pestisides 
+Monzanto - 
+It's been legal actions against this, but we now know that it is bad, causing cancer and bad for evironment. 
+our president; said that they would ban pfas; 
 
 Mira
 
@@ -39,5 +43,5 @@ michiel
 
 We can zoom in consumer products - > Baby products ? health products, Value products. One paticular value chain. Whether it's health or outside gear. But if we do that, we can tackle this for the costumer angle. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNTU0OTA2LC01Njk2NzUxMzBdfQ==
+eyJoaXN0b3J5IjpbMTcyNDYxODczNCwtNTY5Njc1MTMwXX0=
 -->
