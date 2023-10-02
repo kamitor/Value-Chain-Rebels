@@ -14,7 +14,11 @@ there is also new legislating coming in, where they are pushing it to be complet
 That it is so blatantly covered up. 
 
 Bart;
-a good example I found was from fire extingisers where 
+a good example I found was from fire extingisers where people don't even know it's in their products.
+How it's being percieved, the thing is super important. 
+There is a lot of populistic information being spread; I think it's essential that we look into legal, if it's out of scope we shoudnt use it.
+Is it required to put on your product if it's in it?
+Or if it too low in percenta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQzMjE0NzIsMjQ1MjM0NzMyXX0=
+eyJoaXN0b3J5IjpbMTQzMzQ3NTY3NCwyNDUyMzQ3MzJdfQ==
 -->
