@@ -28,12 +28,14 @@ The last thing again; the social aspect it, how much noise do you make about it.
 
 Similar to Lithium, > Slave laybor is not needed; Social media; aspects to the fact finding; 
 
-SOCIAL MEDIA CAMPE
-
+SOCIAL MEDIA CAMPAIGN FOR AUDITING :D 
+Half-Truth.
+Everything that was being banned with Asbestos; 
+>>> research asbestos. 
 
 michiel
 
 We can zoom in consumer products - > Baby products ? health products, Value products. One paticular value chain. Whether it's health or outside gear. But if we do that, we can tackle this for the costumer angle. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDYxNzY5OCwtNTY5Njc1MTMwXX0=
+eyJoaXN0b3J5IjpbLTYxMjU5NjExMSwtNTY5Njc1MTMwXX0=
 -->
