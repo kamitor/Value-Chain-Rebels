@@ -21,7 +21,7 @@ PFAS (Per- and Polyfluoroalkyl Substances) pose environmental and health risks. 
 - **Effectiveness:** Highly effective. Research influences policy and industry decisions.
 - **Data/Source:** Research has significantly influenced policy decisions (Source: [Science and Environmental Policy-Making](https://www.jstor.org/stable/2222558)).
 
-
+https://github.com/kamitor/Value-Chain-Rebels/blob/master/Research%20and%20Advocacy.md
 
 ### 2. Supply Chain Audits
 - **Description:** Implement comprehensive supply chain audits to identify PFAS usage and its sources.
