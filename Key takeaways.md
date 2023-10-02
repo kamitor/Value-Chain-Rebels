@@ -10,9 +10,10 @@ Ras
 
 The things are so bad that people have been instructed not to eat because of pollution
 
-there is also new legislating coming in, where they are pushing it to be completlky 
+there is also new legislating coming in, where they are pushing it to be completly gone.
+That it is so blatantly covered up. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjI1MzA5MCw1MTk0OTgxMjddfQ==
+eyJoaXN0b3J5IjpbMjQ1MjM0NzMyLDUxOTQ5ODEyN119
 -->
