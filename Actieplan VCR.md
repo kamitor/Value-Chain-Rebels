@@ -1,40 +1,52 @@
  [[Actieplan VCR]]
 
-
+## Executive Summary
 ![[Executive Samenvatting VCR#Executive summary VRC]]
+## Goal VCR
 
 ![[Doelstelling VCR#Doelstelling-VCR]]
   - *Acceptatiecriteria:* De doelstelling moet specifiek, meetbaar, acceptabel, realistisch en tijdgebonden zijn (SMART).
+
+## Mission Statement
 ![[Missieverklaring VCR#Missieverklaring-vcr]]
 -  - *Acceptatiecriteria:* De verklaring moet in lijn zijn met de waarden van de instelling en duidelijk de unieke positie of bijdrage van de organisatie binnen de instelling articuleren.
+## Stakeholders
 - **[[Belanghebbenden VCR]]:** ![[Belanghebbenden VCR#stakeholders-vcr]]
   - *Acceptatiecriteria:* Identificatie van alle primaire en secundaire belanghebbenden, inclusief een analyse van hun belangen en invloed.
 
 ## [[Inleiding VCR]]
 - **[[Achtergrond VCR]]:** Overzicht van de behoefte of kans die de nieuwe organisatie adresseert.
   - *Acceptatiecriteria:* Een gedetailleerde uitleg van de context en de behoefte aan een nieuwe organisatie.
-- **[[Reikwijdte VCR]]:** Definieer de grenzen en omvang van wat de organisatie zal omvatten.
+![[Achtergrond VCR#Achtergrond-VCR]]
+- **[[Scope VCR]]:** Definieer de grenzen en omvang van wat de organisatie zal omvatten.
   - *Acceptatiecriteria:* Duidelijk omschreven en afgebakende reikwijdte, met expliciete vermelding van wat wel en niet is inbegrepen.
-- **[[Rationale VCR]]:** Rechtvaardiging voor waarom deze organisatie noodzakelijk is binnen de instelling.
+![[Scope VCR#scope-VCR]]
+- **[[Rationale]]:** Rechtvaardiging voor waarom deze organisatie noodzakelijk is binnen de instelling.
   - *Acceptatiecriteria:* Een logische en onderbouwde uitleg waaruit de noodzaak van de organisatie blijkt.
-
+![[Rationale#Rationale-vcr]]
 ## [[Organisatiestructuur VCR]]
+![[Organisatiestructuur VCR#Organisatiestructuur-VCR]]
 - **[[Leiderschap VCR]]:** Rollen en verantwoordelijkheden van de oprichtende leden.
   - *Acceptatiecriteria:* Duidelijke beschrijving van leiderschapsrollen en de verantwoordelijkheden van elk lid.
+
 - **[[Afdelingen/Teams VCR]]:** Overzicht van verschillende afdelingen of teams, indien van toepassing.
   - *Acceptatiecriteria:* Een gedetailleerde structuur van afdelingen of teams met hun specifieke functies en interacties.
 - **[[Rapportagestructuur VCR]]:** Beschrijving van de hiërarchie en rapportagelijnen.
   - *Acceptatiecriteria:* Een duidelijk en efficiënt rapportagesysteem dat de communicatie binnen de organisatie ondersteunt.
 
 ## [[Strategisch Plan VCR]]
+![[Strategisch Plan VCR#Kernpunten van Strategisch Plan]]
+
 - **[[Visie VCR]]:** Langetermijndoelen en aspiraties van de organisatie.
   - *Acceptatiecriteria:* Inspirerende en realistische visie die richting geeft aan de lange termijn inspanningen van de organisatie.
 - **[[Strategie VCR]]:** Belangrijkste strategieën voor het bereiken van de visie.
   - *Acceptatiecriteria:* Concreet geformuleerde strategieën die aansluiten bij de doelstellingen en middelen van de organisatie.
 - **[[Doelstellingen VCR]]:** Specifieke, meetbare doelstellingen die in lijn zijn met de strategie.
   - *Acceptatiecriteria:* SMART-doelstellingen die direct bijdragen aan het realiseren van de strategische visie.
-
+![[Doelstellingen VCR#Doelstellingen-VCR]]
 ## [[Operationeel Plan VCR]]
+
+![[Operationeel Plan VCR#Kernpunten van Operationeel Plan]]
 - **[[Toewijzing van Middelen VCR]]:** Overzicht van de benodigde middelen (financieel, menselijk, materieel).
   - *Acceptatiecriteria:* Een realistisch en haalbaar plan voor middelentoewijzing, inclusief prioritisering.
 - **[[Processen en Procedures VCR]]:** Beschrijving van de operationele processen en procedures.
