@@ -1,5 +1,7 @@
 # Action Plan: Value Chain Rebels
 
+15/12/2023
+
 ## Introduction
 The "Value Chain Rebels" project aims to drive transformation within the supply chain to enhance efficiency, transparency, and sustainability. This action plan outlines both radical and non-radical options for achieving these objectives.
 
