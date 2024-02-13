@@ -1,0 +1,5 @@
+install.packages("distill")
+install.packages("postcards")
+install.packages("trestles")
+install.packages("krnit")
+install.packages("rmarkdown")

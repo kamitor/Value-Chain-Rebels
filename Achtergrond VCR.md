@@ -1,5 +1,6 @@
 ## Achtergrond
 
+  Waarde Propositie niet specifiek genoeg: Waarop ga je de waarde berekenen; en welk gedeelte ligt de focus (what are you most qualified to teach?) Hoe catograiseer je je Propositie. Mensen moeten snappen wie je directe concurrenten zijn. 
   
 
 - **Acceptatiecriteria voor Achtergrond:**

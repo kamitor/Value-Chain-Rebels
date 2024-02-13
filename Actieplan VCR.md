@@ -13,7 +13,19 @@
 ## Stakeholders
 - **[[Belanghebbenden VCR]]:** ![[Belanghebbenden VCR#stakeholders-vcr]]
   - *Acceptatiecriteria:* Identificatie van alle primaire en secundaire belanghebbenden, inclusief een analyse van hun belangen en invloed.
+Suzanne van Stratum - Nieuwe Business canvas
+Kees Klomp - Programma agency
+Rick schalten ?? - CSRD
 
+Vragen 
+Leerbehoeftes en verwachtingen
+Studentenbetrokkenheid:
+Verbinding met de Praktijk
+Input en Engagement
+reflectie op de naamgeving: Is CSRD 
+
+
+Heroes Berny Glaston
 ## [[Inleiding VCR]]
 - **[[Achtergrond VCR]]:** Overzicht van de behoefte of kans die de nieuwe organisatie adresseert.
   - *Acceptatiecriteria:* Een gedetailleerde uitleg van de context en de behoefte aan een nieuwe organisatie.
