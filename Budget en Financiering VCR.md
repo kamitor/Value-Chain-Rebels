@@ -32,4 +32,4 @@
 
 - Financiering door overheidsbeurzen, industriële samenwerkingen en private investeringen.
 
-- Kostenbeheersing en financieel beheer als prioriteit.
+- Kostenbeheersing en financieel beheer als prioriteit.@
