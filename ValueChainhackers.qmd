@@ -1,0 +1,73 @@
+---
+title: "VHC Sprint Presentation"
+format:
+  revealjs:
+    theme: solarized
+    slideNumber: true
+    center: true
+    progress: true
+---
+
+---
+title: "3-Minute Rule Presentation"
+author: "Your Name"
+date: "YYYY-MM-DD"
+format: revealjs
+---
+
+# [Your Presentation Title]
+
+## Slide 1: Introduction <!-- 0:00 - 0:15 -->
+
+- **Title**: [Title of the Presentation]
+- **Speaker**: [Your Name]
+- **Objective**: Briefly introduce the topic and outline what the audience will learn.
+
+---
+
+
+## Slide 2: Problem Statement <!-- 0:15 - 0:45 -->
+
+- **Problem**: Describe the problem or challenge your presentation addresses.
+- **Impact**: Explain why this problem is significant or relevant.
+- **Example**: Provide a real-world example or anecdote to illustrate the problem.
+
+---
+
+## Slide 3: Solution Overview <!-- 0:45 - 1:15 -->
+
+- **Solution**: Introduce your solution or approach to solving the problem.
+- **Key Features**: Highlight the main features or components of your solution.
+- **Benefits**: Explain the benefits or advantages of implementing your solution.
+
+---
+
+## Slide 4: How It Works <!-- 1:15 - 1:45 -->
+
+- **Process**: Outline the step-by-step process of how your solution works.
+- **Visuals**: Use diagrams, flowcharts, or visuals to illustrate the process.
+- **Demo**: If applicable, provide a brief demo or walkthrough of your solution.
+
+---
+
+## Slide 5: Results and Impact <!-- 1:45 - 2:15 -->
+
+- **Achievements**: Share any results, successes, or milestones achieved with your solution.
+- **Impact**: Discuss the positive impact or outcomes resulting from implementing your solution.
+- **Testimonials**: Include any customer testimonials or success stories, if available.
+
+---
+
+## Slide 6: Next Steps <!-- 2:15 - 2:45 -->
+
+- **Call to Action**: Encourage the audience to take action or engage further with your solution.
+- **Next Steps**: Outline what steps the audience can take to learn more or get involved.
+- **Contact Information**: Provide your contact details or website for further inquiries.
+
+---
+
+## Slide 7: Conclusion and Q&A <!-- 2:45 - 3:00 -->
+
+- **Summary**: Summarize the key points of your presentation.
+- **Closing Statement**: End with a strong closing statement or call to action.
+- **Q&A**: Open the floor for questions from the audience.
